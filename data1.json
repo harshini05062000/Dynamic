@@ -1,0 +1,51 @@
+{
+	"details":{
+		
+		"name":"Harshini Sanisetty",
+		"email":"harshinisanisetty@gmail.com",
+		
+		"number":"Phone No : 9491521182",
+		"address":"Guntur,Vinukonda",
+		"image":"download.png"
+
+	},
+	"careerobjective":{
+		"info":"Looking for an internship program in a company where I could learn under working professional to gain knowledge and improvement of my skills by giving some input to the company."
+    },
+	"techskills": 
+		["Python","C","C++","Java","Advanced Java","Django","HTML","CSS","Boot Strap","JS","Node Js","Angular","React"],
+	"hobbies": 
+		  ["Playing Chess","Travelling","Reading Books and NEWS"],
+	"educationalqualification":[
+		{
+			"sno":"1",
+			"institute":"Shri Vishnu Engineering College For Women",
+			"degree":"B.tech",
+			"university":"JNTUK",
+			"passoutyear":"2022",
+			"percentile":"87%"
+		},
+		{
+			"sno":"2",
+			"institute":"Sri Chaitanya Junior Collge",
+			"degree":"Intermediate",
+			"university":"Board of Indermediate",
+			"passoutyear":"2018",
+			"percentile":"97%"
+		},
+		{
+			"sno":"3",
+			"institute":"Good Shepherd School",
+			"degree":"10th",
+			"university":"Board of secondary education",
+			"passoutyear":"2016",
+			"percentile":"97"
+		}
+	],
+	"projects":
+		["WeatherApp in Node Js","Telegram Bot in Node Js","sportssystem"],
+	"declaration":{
+		"info":"I harshinisanisetty here declare that all the information I have included is correct to the best of my knowledge on 25.7.2020"
+	}
+
+}
