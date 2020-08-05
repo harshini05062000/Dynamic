@@ -27,7 +27,7 @@ function mydetails(apssdc){
   d.classList.add("Basicdetails");
   parent2.appendChild(d);
   var i=document.createElement("img");
-  i.src=apssdc.image;
+  i.src="https://i.ytimg.com/vi/gaScYKVRLAM/maxresdefault.jpg";
   i.alt="download";
   d.appendChild(i);
     var name=document.createElement("h4");
